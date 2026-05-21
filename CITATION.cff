@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+title: >-
+  A Probabilistic Framework for Estimating Urban Material
+  Stocks with Typological and Geometric Uncertainty
+message: 'If you use this framework, please cite it as below.'
+type: software
+authors:
+  - family-names: Olagunju
+    given-names: Sakiru Olarewaju
+    orcid: 'https://orcid.org/0009-0003-2665-685X'
+    affiliation: >-
+      Department of Civil and Environmental Engineering,
+      Nazarbayev University, Astana, Kazakhstan
+    email: sakiru.olagunju@nu.edu.kz
+  - family-names: Varol
+    given-names: Huseyin Atakan
+    orcid: 'https://orcid.org/0000-0002-4042-425X'
+    affiliation: >-
+      Institute of Smart Systems and Artificial Intelligence
+      (ISSAI), Nazarbayev University, Astana, Kazakhstan
+    email: ahvarol@nu.edu.kz
+  - family-names: Braganca
+    given-names: Luis
+    orcid: 'https://orcid.org/0000-0003-4246-8157'
+    affiliation: >-
+      Department of Civil Engineering, University of Minho,
+      Guimarães, Portugal
+    email: braganca@civil.uminho.pt
+  - family-names: Karaca
+    given-names: Ferhat
+    orcid: 'https://orcid.org/0000-0002-9604-9348'
+    affiliation: >-
+      Department of Civil and Environmental Engineering,
+      Nazarbayev University, Astana, Kazakhstan
+    email: ferhat.karaca@nu.edu.kz
+url: 'https://github.com/Gunjuzone/UrbanMaterialStock_Simulation'
+version: 0.1.0
+date-released: '2025-10-03'
+repository: 'https://github.com/Gunjuzone/UrbanMaterialStock_Simulation'
