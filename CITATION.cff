@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: >-
-  A Probabilistic Framework for Estimating Urban Material
-  Stocks with Typological and Geometric Uncertainty
+  Propagation of Typology Misclassification and Geometric
+  Measurement Errors in Floor-Area-Based Urban Material Stock Models
 message: 'If you use this framework, please cite it as below.'
 type: software
 authors:
@@ -33,7 +33,8 @@ authors:
       Department of Civil and Environmental Engineering,
       Nazarbayev University, Astana, Kazakhstan
     email: ferhat.karaca@nu.edu.kz
-url: 'https://github.com/Gunjuzone/UrbanMaterialStock_Simulation'
-version: 0.1.0
-date-released: '2025-10-03'
-repository: 'https://github.com/Gunjuzone/UrbanMaterialStock_Simulation'
+license: MIT
+url: 'https://github.com/Gunjuzone/BuildingMassStock'
+version: 3.0.0
+date-released: '2026-09-30'
+repository: 'https://github.com/Gunjuzone/BuildingMassStock'
